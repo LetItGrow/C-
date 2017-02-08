@@ -1,0 +1,7 @@
+d:\documents\visual studio 2010\Projects\计算器\计算器\bin\Debug\计算器.exe
+d:\documents\visual studio 2010\Projects\计算器\计算器\bin\Debug\计算器.pdb
+d:\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\计算器.Form1.resources
+d:\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\计算器.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\计算器.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\计算器.exe
+d:\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\计算器.pdb

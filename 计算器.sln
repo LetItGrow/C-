@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "计算器", "计算器\计算器.csproj", "{73909192-D732-4BE7-8FFA-27DC7EBFE1DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73909192-D732-4BE7-8FFA-27DC7EBFE1DC}.Debug|x86.ActiveCfg = Debug|x86
+		{73909192-D732-4BE7-8FFA-27DC7EBFE1DC}.Debug|x86.Build.0 = Debug|x86
+		{73909192-D732-4BE7-8FFA-27DC7EBFE1DC}.Release|x86.ActiveCfg = Release|x86
+		{73909192-D732-4BE7-8FFA-27DC7EBFE1DC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
